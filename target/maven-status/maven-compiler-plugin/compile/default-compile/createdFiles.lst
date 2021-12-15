@@ -1,0 +1,4 @@
+com\mycompany\dictionary\App.class
+dictionary\domain\Dictionary.class
+module-info.class
+com\mycompany\dictionary\SystemInfo.class
